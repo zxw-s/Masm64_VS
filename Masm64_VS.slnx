@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Masm64_VS/Masm64_VS.vcxproj" Id="d54d5376-1207-41a6-af88-08b4aad3c731" />
+</Solution>
